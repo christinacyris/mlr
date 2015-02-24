@@ -1,9 +1,4 @@
-partest laufen lassen
 
-switch on version
-
-#
-##### mlr ######
 
 - make test still produces output of learners even when configureMlr(show.learner.output=FALSE)
 
