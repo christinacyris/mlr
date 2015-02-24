@@ -18,7 +18,7 @@ makeRLearner.classif.xyf = function() {
     properties = c("numerics", "twoclass", "multiclass", "prob"),
     name = "X-Y fused self-organising maps",
     short.name = "xyf",
-    note = ""
+    note = "Voll blöd!"
   )
 }
 
